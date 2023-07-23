@@ -1,4 +1,4 @@
-# OSRS-PVM-Bot
+# OSRS-PVM-Bot - WAS plantshater
 
 OSRS PVM Bot to assist you with battles with over 10 bosses including:
 Nex                                                                                                                                                                                                                        
